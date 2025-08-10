@@ -6,4 +6,4 @@ Fairness Evaluation: Compared Mean Absolute Error (MAE) between smoker and non-s
 
 Fairness Mitigation Techniques: Loss reweighting to balance group-specific errors during training, Post-processing corrections to adjust predictions after model training.
 
-Results: Reduced MAE disparity between smoker and non-smoker groups. Maintained strong overall predictive performance, Improved equity in insurance cost estimates.
+Results: Reduced MAE disparity between smoker and non-smoker groups, Maintained strong overall predictive performance, Improved equity in insurance cost estimates.
